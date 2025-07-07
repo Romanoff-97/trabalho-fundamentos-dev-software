@@ -39,7 +39,7 @@ Este repositório contém o trabalho prático da disciplina **Fundamentos de Des
 
 1. Acesse o repositório no GitHub.
 2. Clique na aba **"Pages"** para abrir a página hospedada.
-3. Ou abra diretamente via [GitHub Pages](#) _(atualize este link após publicar)_.
+3. Ou abra diretamente via [GitHub Pages](https://romanoff-97.github.io/trabalho-fundamentos-dev-software/).
 
 ## 💻 Tecnologias Utilizadas
 
