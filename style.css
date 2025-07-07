@@ -1,0 +1,71 @@
+body {
+  padding: 0;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  box-sizing: border-box;
+  background-color: #d3bdce;
+}
+
+h1 {
+  text-align: center;
+  margin: 2rem;
+  color: #4a2c2c;
+}
+
+#paragrafo-descritivo {
+  color: #333;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+#botao {
+  padding: 1rem;
+  background-color: #dfd6d6;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#botao:hover {
+  background-color: #a09b9b;
+}
+
+#lista-hobbies > li.item-lista {
+  padding: 0.5rem;
+}
+
+#imagem-hobbies {
+  margin-bottom: 1rem;
+}
+
+#imagem-hobbies > img {
+  border-radius: 20px;
+}
+
+#tabela-paises {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+#tabela-paises {
+  width: 100%;
+}
+
+#tabela-paises th {
+  padding: 0.5rem;
+  border-bottom: 1px solid #333;
+}
+
+#tabela-paises td,
+#tabela-paises th {
+  border: 1px solid #333;
+  text-align: center;
+}
+
+#tabela-paises td {
+  padding: 0.5rem;
+}
+
+a:hover {
+  color: #501a1a;
+}
